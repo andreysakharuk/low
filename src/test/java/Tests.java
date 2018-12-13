@@ -10,7 +10,7 @@ public class Tests {
 
     @Test
     public void testShouldBeFailed() {
-        Assert.assertTrue(true);
+        Assert.assertTrue(false);
     }
 
 }
